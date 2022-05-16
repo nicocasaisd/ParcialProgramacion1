@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652705567 source:/home/nicocasaisd/Documentos/UTN/Programacion1/Parciales/Parcial 1 Prog/Parcial1_CasaisDassieNIcolas/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
